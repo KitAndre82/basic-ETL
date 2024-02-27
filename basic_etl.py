@@ -1,4 +1,4 @@
-""" Porgramme that combines 4 csv files into one file with 3.6 million rows and then uses 
+""" Programme that combines 4 csv files into one file with 3.6 million rows and then uses 
 pivot tables to break it down into less  than 17000 rows that include the data by day of week
 
 """

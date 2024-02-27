@@ -25,7 +25,7 @@ Clone the repository to your local machine:
 
 bash
 Copy code
-git clone https://github.com/KitAndre82/basic_ETL.git
+git clone https://github.com/KitAndre82/basic-ETL.git
 Navigate to the project directory:
 
 bash

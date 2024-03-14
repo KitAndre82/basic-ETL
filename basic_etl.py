@@ -6,16 +6,16 @@ pivot tables to break it down into less  than 17000 rows that include the data b
 import pandas as pd
 
 # Load csv files and isplay the columns 
-df1 = pd.read_csv('/Users/andrew/Downloads/BIDM/bidm assignment 3 files/Divvy_Trips_2018_Q1 3.csv')
+df1 = pd.read_csv('/Divvy_Trips_2018_Q1.csv')
 df1.columns
 
-df2 = pd.read_csv('/Users/andrew/Downloads/BIDM/bidm assignment 3 files/Divvy_Trips_2018_Q2.csv')
+df2 = pd.read_csv('/Divvy_Trips_2018_Q2.csv')
 df2.columns
 
-df3 = pd.read_csv('/Users/andrew/Downloads/BIDM/bidm assignment 3 files/Divvy_Trips_2018_Q3.csv')
+df3 = pd.read_csv('/Divvy_Trips_2018_Q3.csv')
 df3.columns
 
-df4 = pd.read_csv('/Users/andrew/Downloads/BIDM/bidm assignment 3 files/Divvy_Trips_2018_Q4.csv')
+df4 = pd.read_csv('/Divvy_Trips_2018_Q4.csv')
 df4.columns
 
 # The files have different column names. So the code below ensures that all 4 dataframes have the same column names
